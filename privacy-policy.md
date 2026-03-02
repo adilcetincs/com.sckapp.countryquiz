@@ -1,142 +1,95 @@
-Privacy Policy – Country Quiz (iOS)
+# Privacy Policy – Country Quiz (iOS)
 
-Last updated: March 2026
+_Last updated: March 2026_
 
-Country Quiz (“the app”, “we”, “our”, or “us”) respects your privacy. This Privacy Policy explains how information is collected, used, and protected when you use the Country Quiz mobile application on iOS devices.
+Country Quiz (“the app”, “we”, “our”, or “us”) respects your privacy. This Privacy Policy explains how information is collected, used, and protected when using the Country Quiz mobile app on iOS devices.
 
 By using the application, you agree to this Privacy Policy.
 
-1. Information We Collect
+---
 
-Country Quiz does not collect personally identifiable information such as your name, address, phone number, or precise location.
+## 1. Information We Collect
 
-However, some non-personal data may be collected automatically through Apple-provided services and third-party services used within the app.
+Country Quiz **does not collect personally identifiable information** such as name, address, phone number, or precise location.
 
-Automatically Collected Information
+However, some non-personal data may be collected automatically through Apple services and third-party services.
 
-Device type and iOS version
+### Automatically Collected Information
 
-Anonymous device identifiers (only if user permission is granted)
+- Device type and iOS version
+- Anonymous device identifiers (if user permission granted)
+- Game usage data (session duration, difficulty, language)
+- Crash and performance data
+- Scores and leaderboard data via Game Center
+- Rewarded advertisement interactions
 
-Game usage data (such as session duration, selected difficulty level, and language preference)
+---
 
-Crash and performance data
+## 2. Game Features & Gameplay Data
 
-Scores and leaderboard data via Game Center
+- 4 difficulty levels: Easy, Medium, Hard, Veteran
+- Life (heart) system limiting gameplay
+- Lives regenerate every day at 12:00 PM
+- Optional rewarded ads give **1 extra life**
+- In-app purchases:
+  - **3 lives during gameplay**
+  - **10-life and 25-life packs**
 
-Rewarded advertisement interaction data
+Progress and preferences are stored locally or via Apple services.
 
-2. Game Features & Gameplay Data
+---
 
-Country Quiz is a geography-based quiz game where players guess countries based on map borders.
+## 3. Language Support
 
-The game includes:
+- Turkish, English, Hindi, Chinese, Russian, German, French, Italian, Korean, Japanese, Portuguese, Spanish
 
-4 difficulty levels: Easy, Medium, Hard, and Veteran
+---
 
-A life (heart) system that limits gameplay
+## 4. Advertising & App Tracking Transparency (ATT)
 
-Automatic life regeneration every day at 12:00 PM
+- Uses third-party ads
+- Requests ATT permission to track user activity across apps and websites
+- Permission is optional; app functions normally if denied
+- Allows ad partners to measure performance and provide relevant ads
 
-Optional rewarded ads that grant 1 extra life
+---
 
-In-app purchases that allow users to:
+## 5. In-App Purchases
 
-Purchase 3 lives during gameplay
+- Purchases handled via **Apple App Store**
+- 3 lives during gameplay, 10-life, 25-life packs
+- No payment or billing info collected by us
 
-Purchase 10-life and 25-life packs
+---
 
-Game progress and user preferences are stored locally on the device or via Apple-provided services.
+## 6. Game Center & Leaderboards
 
-3. Language Support
+- Scores and leaderboards managed via **Apple Game Center**
+- No access to Game Center login credentials
 
-Country Quiz supports the following languages:
+---
 
-Turkish
+## 7. Children’s Privacy
 
-English
+- Does not knowingly collect data from children under 13
 
-Hindi
+---
 
-Chinese
+## 8. Data Security
 
-Russian
+- Reasonable measures to protect data
+- Internet storage/transmission is never 100% secure
 
-German
+---
 
-French
+## 9. Changes to Privacy Policy
 
-Italian
+- Updates will be posted on this page
 
-Korean
+---
 
-Japanese
+## 10. Contact
 
-Portuguese
+**support@skcapp.com**
 
-Spanish
-
-Language preferences may be stored locally to improve the user experience.
-
-4. Advertising & App Tracking Transparency
-
-Country Quiz uses third-party advertising services on iOS.
-
-To display relevant advertisements, the app may request permission under Apple’s App Tracking Transparency (ATT) framework to track user activity across apps and websites owned by other companies.
-
-Granting tracking permission is optional
-
-If permission is denied, the app continues to function without restrictions
-
-If permission is granted, advertising partners may:
-
-Measure ad performance
-
-Provide more relevant ads
-
-Tracking permission can be managed at any time through iOS device settings.
-
-5. In-App Purchases
-
-Country Quiz offers in-app purchases through the Apple App Store.
-
-Purchase 3 lives during gameplay
-
-Purchase 10-life and 25-life packs
-
-All payments are processed securely by Apple.
-We do not collect, store, or process any payment or billing information.
-
-6. Game Center & Leaderboards
-
-Country Quiz uses Apple Game Center for:
-
-Recording scores
-
-Displaying leaderboards
-
-Player identities and scores are managed by Apple in accordance with their privacy policies.
-We do not access or store Game Center login credentials.
-
-7. Children’s Privacy
-
-Country Quiz does not knowingly collect personal data from children under the age of 13.
-
-If you believe that a child has provided personal information, please contact us so appropriate action can be taken.
-
-8. Data Security
-
-We take reasonable technical and organizational measures to protect information from unauthorized access or misuse.
-
-However, no method of electronic storage or transmission over the internet is completely secure.
-
-9. Changes to This Privacy Policy
-
-This Privacy Policy may be updated from time to time.
-Any changes will be posted on this page with an updated revision date.
-
-10. Contact Us
-
-If you have any questions or concerns regarding this Privacy Policy, please contact us at:
-
-📧 support@skcapp.com
+---
